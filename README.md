@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository is for capstone project for IBM data science professional certificate
+Introduced the business problem and areas of interest with this project. Described the data that will be used to solve the problem and the souce of the data. Conducted exploratory data analysis and discussed the methods used to draw insights. Defined the final results with accuracy of the model and popular places for the neighborhoods. Finally, concluded the report with how accurate the model was and how were the insights for the particular problem. 
